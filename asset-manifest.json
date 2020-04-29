@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-mint-collection/static/css/main.d1b05096.chunk.css",
+    "main.js": "/the-mint-collection/static/js/main.ca48cb9f.chunk.js",
+    "main.js.map": "/the-mint-collection/static/js/main.ca48cb9f.chunk.js.map",
+    "runtime-main.js": "/the-mint-collection/static/js/runtime-main.3258b844.js",
+    "runtime-main.js.map": "/the-mint-collection/static/js/runtime-main.3258b844.js.map",
+    "static/js/2.bfd6b98d.chunk.js": "/the-mint-collection/static/js/2.bfd6b98d.chunk.js",
+    "static/js/2.bfd6b98d.chunk.js.map": "/the-mint-collection/static/js/2.bfd6b98d.chunk.js.map",
+    "index.html": "/the-mint-collection/index.html",
+    "precache-manifest.c4277f633a88d4eb6c8dcc0e41e06e2d.js": "/the-mint-collection/precache-manifest.c4277f633a88d4eb6c8dcc0e41e06e2d.js",
+    "service-worker.js": "/the-mint-collection/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/the-mint-collection/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bfd6b98d.chunk.js.LICENSE.txt": "/the-mint-collection/static/js/2.bfd6b98d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/the-mint-collection/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3258b844.js",
+    "static/js/2.bfd6b98d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ca48cb9f.chunk.js"
+  ]
+}
